@@ -17,7 +17,8 @@
         "build": {
           "builder": "@angular-devkit/build-angular:application",
           "options": {
-            "outputPath": "dist/portfolio-v2",
+            "outputPath": "dist/",
+            "baseHref": "/portfolio-v2/",
             "index": "src/index.html",
             "browser": "src/main.ts",
             "polyfills": [
@@ -97,5 +98,8 @@
         }
       }
     }
+  },
+  "cli": {
+    "analytics": false
   }
 }
