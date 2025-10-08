@@ -1,0 +1,90 @@
+{
+  "languages": [
+    {
+      "value": "fr_fr",
+      "label": "Français"
+    },
+    {
+      "value": "en_us",
+      "label": "English"
+    }
+  ],
+  "cardWrap": {
+    "role": "region",
+    "aria-label": "Portfolio de Ibrahim DEMBELE"
+  },
+  "profile": {
+    "fullName": "Ibrahim DEMBELE",
+    "role": "Angular · React · Node.js",
+    "actionsList": [
+      {
+        "id": "linkedin",
+        "label": "LinkedIn",
+        "href": "https://www.linkedin.com/in/ibrahim-dembele-2a91351b3/",
+        "icon": [
+          "fab",
+          "linkedin-in"
+        ],
+        "key": "l"
+      },
+      {
+        "id": "github",
+        "label": "GitHub",
+        "href": "https://github.com/idembele70",
+        "icon": [
+          "fab",
+          "github"
+        ],
+        "key": "g"
+      },
+      {
+        "id": "cv",
+        "label": "Télécharger CV",
+        "href": "assets/cv_Ibrahim_DEMBELE_fr-fr.pdf",
+        "icon": [
+          "fas",
+          "file-pdf"
+        ],
+        "key": "c"
+      },
+      {
+        "id": "skillsPortfolio",
+        "label": "Dossier de compétences",
+        "href": "assets/skills_portfolio_Ibrahim_DEMBELE_fr-fr.pdf",
+        "icon": [
+          "fas",
+          "folder"
+        ],
+        "key": "s"
+      }
+    ]
+  },
+  "main": {
+    "heroTitle": "Développeur Full-Stack",
+    "heroSubtitle": "En train de dev des Web App performantes et scalable",
+    "linkCardsList": [
+      {
+        "title": "Projets",
+        "summary": "Accède à mes projets principaux (Code source, démos)",
+        "href": "https://idembele70.github.io/skills-portfolio/?lang=fr_fr#projects"
+      },
+      {
+        "title": "Expérience",
+        "summary": "Résumé des missions, responsabilités et résultats mesurables.",
+        "href": "https://idembele70.github.io/skills-portfolio/?lang=fr_fr#experiences"
+      },
+      {
+        "title": "Compétences",
+        "summary": "Dossier de compétences",
+        "href": "https://idembele70.github.io/skills-portfolio/?lang=fr_fr#skills"
+      },
+      {
+        "title": "Contact",
+        "summary": "Email, LinkedIn, disponibilité et liens utiles.",
+        "href": "https://idembele70.github.io/skills-portfolio/?lang=fr_fr#contacts"
+      }
+    ],
+    "meta": "Build with ❤️ — by @idembele70",
+    "hint": "Astuce : clique sur une carte pour ouvrir le lien"
+  }
+}
