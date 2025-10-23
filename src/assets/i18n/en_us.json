@@ -64,6 +64,11 @@
     "heroSubtitle": "Building high-performance and scalable Web Apps",
     "linkCardsList": [
       {
+        "title": "Certificates",
+        "summary": "Explore the certifications I earned, with direct links to view details and credentials",
+        "href": "https://idembele70.github.io/skills-portfolio/?lang=en_us#certificates"
+      },
+      {
         "title": "Projects",
         "summary": "Access my main projects (Source code, demos)",
         "href": "https://idembele70.github.io/skills-portfolio/?lang=en_us#projects"
@@ -77,11 +82,6 @@
         "title": "Skills",
         "summary": "Skills portfolio",
         "href": "https://idembele70.github.io/skills-portfolio/?lang=en_us#technicalSkills"
-      },
-      {
-        "title": "Contact",
-        "summary": "Email, LinkedIn, availability, and useful links.",
-        "href": "https://idembele70.github.io/skills-portfolio/?lang=en_us#contacts"
       }
     ],
     "meta": "Built with ❤️ — by @idembele70",

@@ -64,6 +64,11 @@
     "heroSubtitle": "En train de dev des Web App performantes et scalable",
     "linkCardsList": [
       {
+        "title": "Certifications",
+        "summary": "Explorez mes certifications, avec un lien pour voir plus de détails et les attestations",
+        "href": "https://idembele70.github.io/skills-portfolio/?lang=fr_fr#certificates"
+      },
+      {
         "title": "Projets",
         "summary": "Accède à mes projets principaux (Code source, démos)",
         "href": "https://idembele70.github.io/skills-portfolio/?lang=fr_fr#projects"
@@ -77,11 +82,6 @@
         "title": "Compétences",
         "summary": "Dossier de compétences",
         "href": "https://idembele70.github.io/skills-portfolio/?lang=fr_fr#technicalSkills"
-      },
-      {
-        "title": "Contact",
-        "summary": "Email, LinkedIn, disponibilité et liens utiles.",
-        "href": "https://idembele70.github.io/skills-portfolio/?lang=fr_fr#contacts"
       }
     ],
     "meta": "Build with ❤️ — by @idembele70",
