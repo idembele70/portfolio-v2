@@ -1,10 +1,15 @@
 .fullscreen {
   width: 100vw;
-  height: 100vh;
+  min-height: 100vh;
   position: relative;
-  display: grid;
-  place-items: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
   background: linear-gradient(120deg, var(--bg1), var(--bg2));
+  @media (max-width: 600px) {
+    padding: 30px 0;
+    width: initial;
+  }
 }
 
 .bg-blobs {
@@ -40,11 +45,11 @@
     }
 
     &.c {
-      width: 360px;
-      height: 360px;
+      width: 520px;
+      height: 520px;
       background: radial-gradient(circle at 50% 50%, rgba(249,115,22,0.9), rgba(249,115,22,0.28) 40%, transparent 60%);
-      left: 20%;
-      bottom: -8%;
+      left: -10%;
+      bottom: -15%;
       animation-duration: 18s;
     }
   }
@@ -237,7 +242,7 @@
   margin-top: 1.2rem;
   gap: 1rem;
   color: var(--muted);
-  font-style: 0.85rem;
+  font-size: 0.85rem;
 }
 
 @media (max-width: 880px) {
